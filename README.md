@@ -1,3 +1,3 @@
 # Car Info Aggregator
 
-This project is a showcase of my skills as a fullstack developer.
+My name is Jeffry Yoon. I recently graduated from Brigham Young University with a degree in Computer Science with an emphasis in Software Engineering and a minor in Mathematics. I created this website with the intent of displaying my skills as a full stack developer. This website is built with Next.js, Tailwind CSS, TypeScript, and Python, using Git as a version control system and with plans to use AWS for hosting. Ultimately, because of the webscraping aspects of this project, I will not be deploying this porject for public use. But I hope the public repository on my Github will be a good representation of my skills. I am currently looking for a job as a software engineer. If you are interested in my skills, please contact me at jeffryminhyokyoon@gmail.com or at (702) 277-1877.
